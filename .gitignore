@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# CPLEX / solver logs or temporary files (generic patterns)
+*.log
+*.ilp
+*.lp
+*.mps
+
+# Data and results that can be regenerated
+*.tmp
+*.bak
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# OneDrive sync artifacts
+~$*
+
+# Large binary outputs (keep source videos out of Git if desired)
+*.mp4
+*.avi
+*.mov
+
