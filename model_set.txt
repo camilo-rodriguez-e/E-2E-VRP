@@ -1,4 +1,0 @@
-emphasis: default
-limits/time = 21600
-parallel/maxnthreads = 3
-limits/gap = 0.0001
