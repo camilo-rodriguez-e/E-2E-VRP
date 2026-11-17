@@ -1,0 +1,4 @@
+gurobipy==13.0.2
+matplotlib==3.11.1
+networkx==3.6.1
+numpy==2.5.2
