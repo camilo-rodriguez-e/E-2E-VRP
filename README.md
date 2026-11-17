@@ -9,12 +9,12 @@ The Electric Two-Echelon Vehicle Routing Problem (E-2E-VRP) models urban deliver
 ## Project Structure
 
 ```
-├── model.ipynb              # Main optimization model (Gurobi)
-├── e-2e-vrp instances/      # Problem instances
-│   ├── H1/                   # Hub configuration 1
-│   ├── H2/                   # Hub configuration 2
-│   └── H3/                   # Hub configuration 3
-│       └── Small/            # Small-sized instances
+├── model.py             # Electric Two Echelon Vehicle Routing Problem class (exact, matheurist and plot)
+├── instances/           # Problem instances
+│   ├── H1/              # Hub configuration 1
+│   ├── H2/              # Hub configuration 2
+│   └── H3/              # Hub configuration 3
+│       └── SetSmall/    # Small-sized instances
 └── README.md
 ```
 
